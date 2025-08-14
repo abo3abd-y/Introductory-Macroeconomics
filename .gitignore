@@ -1,6 +1,7 @@
-*
+# Ignore everything in all directories
+**/*
 
-!*.pdf
-!*.tex
-!*.png
-!.gitignore
+# Except for these file types
+!**/*.pdf
+!**/*.tex
+!**/*.png
