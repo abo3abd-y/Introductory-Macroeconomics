@@ -5,3 +5,5 @@
 !**/*.pdf
 !**/*.tex
 !**/*.png
+!.gitignore
+!README.md
